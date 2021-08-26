@@ -1,0 +1,9 @@
+al redirigir un beat desde home --> hacia --> BeatPage con <Link>, los datos no cargan.
+
+Hemos de cambiar las funciones por constantes (en BeatPage), y ver si así funciona.
+
+
+
+Por último, debemos estudiar como hacer que el estado (useContext) del carrito, permanezca 
+con la misma información todo el rato, ya que cuando se refreshea la pagina, se elimina todo.
+

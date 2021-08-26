@@ -1,0 +1,26 @@
+.genre-container{
+    text-align: center;
+}
+
+
+.genero{
+    display: flex;
+    width: 180px;
+    height: 180px;
+
+    background-image:url("https://d1csarkz8obe9u.cloudfront.net/posterpreviews/fancy-best-trap-album-cover-design-template-61c1d25232ab02f25e5da5e0da40e965_screen.jpg?ts=1589589429");
+    background-position: center;
+    background-size: 180px;
+
+    margin-right:15px;
+
+    justify-content: center;
+    align-items: center;
+
+
+    border-radius:20px;
+}
+
+.genre-container h2{
+    font-size: 18px;
+}

@@ -1,0 +1,45 @@
+.div-general-confirmado{
+    margin-top: 100px;
+    text-align: center;
+}
+
+.div-general-confirmado h2{
+    color:white;
+    font-size: 30px;
+    margin-bottom: 40px;
+}
+
+.div-general-confirmado h3{
+    color:white;
+    font-size: 19px;
+    margin:0px 20px 0px 20px;
+}
+
+
+
+.botones-confirmed{
+    justify-content: center;
+    display: grid;  
+    margin-top:50px;
+}
+
+.botones-confirmed a{
+    text-decoration: none;
+    color:White;
+}
+
+.botones-confirmed button{
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-bottom: 22px;
+
+    border-radius: 10px;
+
+    color:rgb(255, 255, 255);
+    font-weight: 800;
+    
+    background-color: red;
+    border:solid;
+    border-color: transparent;
+}
+

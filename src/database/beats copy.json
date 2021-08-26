@@ -1,0 +1,68 @@
+[
+    {
+        "nombrebeatmaker":"SvcioBeats",
+        "genero":"Trap",
+        "imagen":"https://i.scdn.co/image/ab67616d0000b273f16a8259e84c50e32ee198dc",
+        "beat1nombre":"Loop",
+        "beatimagen":"https://i.scdn.co/image/ab67616d0000b273f16a8259e84c50e32ee198dc",
+        "prueba":{
+            "nombre1":"hola",
+            "imagen1":"https://i.scdn.co/image/ab67616d0000b273f16a8259e84c50e32ee198dc"
+        }
+        
+    },
+    {
+        "nombrebeatmaker":"Rollbeats",
+        "genero":"Trap",
+        "imagen":"https://i.scdn.co/image/ceca07b3f20f1d88ac87f97255c6f5cd8eb0927d",
+        "beat1nombre":"Clientes Negros",
+        "beatimagen":"https://estacion40.com.py/wp-content/uploads/2019/10/Anuel-e1613139351473.jpg",
+        "prueba":{
+            "nombre1":"hola",
+            "imagen1":"https://estacion40.com.py/wp-content/uploads/2019/10/Anuel-e1613139351473.jpg"
+        }
+        
+    },
+    {
+        "nombrebeatmaker":"RetroMoney",
+        "genero":"Trap",
+        "imagen":"https://i.scdn.co/image/ceca07b3f20f1d88ac87f97255c6f5cd8eb0927d",
+        "beat1nombre":"TouchDown",
+        "beatimagen":"https://d1csarkz8obe9u.cloudfront.net/posterpreviews/fancy-best-trap-album-cover-design-template-61c1d25232ab02f25e5da5e0da40e965_screen.jpg?ts=1589589429",
+        "prueba":{
+            "nombre1":"hola",
+            "imagen1":"https://i.scdn.co/image/ab67616d0000b273f16a8259e84c50e32ee198dc"
+
+        }
+        
+    },
+    {
+        "nombrebeatmaker":"isYayBeats",
+        "genero":"Trap",
+        "imagen":"https://i.scdn.co/image/ceca07b3f20f1d88ac87f97255c6f5cd8eb0927d",
+        "beat1nombre":"Loop",
+        "beatimagen":"https://d1csarkz8obe9u.cloudfront.net/posterpreviews/fancy-best-trap-album-cover-design-template-61c1d25232ab02f25e5da5e0da40e965_screen.jpg?ts=1589589429",
+        "prueba":{
+            "nombre1":"hola",
+            "imagen1":"https://i.scdn.co/image/ab67616d0000b273f16a8259e84c50e32ee198dc"
+
+        }
+
+        
+    },
+    {
+        "nombrebeatmaker":"Enry-K",
+        "genero":"Trap",
+        "imagen":"https://i.scdn.co/image/ceca07b3f20f1d88ac87f97255c6f5cd8eb0927d",
+        "beat1nombre":"Loop",
+        "beatimagen":"https://d1csarkz8obe9u.cloudfront.net/posterpreviews/fancy-best-trap-album-cover-design-template-61c1d25232ab02f25e5da5e0da40e965_screen.jpg?ts=1589589429",
+        "prueba":{
+            "nombre1":"hola",
+            "imagen1":"https://i.scdn.co/image/ab67616d0000b273f16a8259e84c50e32ee198dc"
+
+        }
+        
+
+        
+    }
+]

@@ -1,0 +1,216 @@
+.superior-all{
+    padding-top: 40px;
+}
+
+.superior-all h1{
+    font-family:'Bebas Neue';
+    color:white;
+    margin-left:15px;
+    font-size: 35px;
+}
+
+.general-all{
+    display: grid;
+    /* align-items: center; */
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+
+    font-family: "Poppins";
+}
+
+
+.beat-container-all{
+    align-self: center;
+    justify-self: center;
+    width:160px;
+/*    display: inline-block; */
+    margin:10px 0px 20px 0px;
+
+   /* padding-left: 10px; */
+   
+}
+
+.caja-cuadrada-all{
+    display: flex;
+    width: 160px;
+    height: 160px;
+   
+    background-position: center;
+    background-size: cover;
+
+    justify-content: center;
+    align-items: center;
+
+    margin-right:0px;
+
+    border-radius:20px;
+}
+
+.imagen-fondo-beats-all{
+
+    display:flex;
+    width: 160px;
+    height: 160px;
+    object-fit:cover;
+    border-radius:20px;
+    z-index:2;
+    
+
+}
+.beat-container-all h4{
+    color:#0b8aff;
+    font-size: 16px;
+    margin-top:9px;
+    margin-bottom: 0px;
+    
+}
+.beat-container-all h2{
+    color:White;
+    font-size: 17px;
+    margin-top:5px;
+    margin-bottom: 2px;
+}
+
+.beat-container-all h3{
+    color:rgb(103, 103, 103);
+    text-decoration: none;
+    font-size: 15px;
+    margin-top:2px;
+}
+.beat-container-all a{
+    text-decoration: none;
+}
+
+.reproductor-all{
+    position:fixed;
+    bottom:0;
+    width:100%;
+    z-index:10;
+}
+
+.playerstop-all{
+    position: absolute; 
+    margin-bottom: 0px;
+    z-index: 9;
+}
+
+.contenido-caja ul{
+    transition: 0.9s;
+}
+
+.contenido-caja ul:hover{
+    cursor: pointer;
+    background-color: rgba(255, 255, 255, 0.208);
+    color:rgb(255, 255, 255);
+
+    
+}
+
+
+
+
+
+
+/* PANTALLA GRANDE */
+@media  (min-width:1371px){
+
+    .contenedor-general-beatsall{
+        display: flex;
+        justify-content: center;
+    }
+
+    .superior-all{
+       /*  display:inline-table; */
+       /*  display:inline; */
+        padding-top: 150px;
+        
+        justify-content: right;
+        justify-self: right;
+      
+        width: 70%;
+    }
+
+    .superior-all h1{
+        font-family:'Bebas Neue';
+        color:white;
+        margin-left: 180px;
+        font-size: 35px;
+        
+    }
+
+    .beat-container-all{
+        align-self: left;
+        justify-self: left;
+        width:160px;
+        float:left;
+    /*    display: inline-block; */
+        margin:10px 0px 20px 0px;
+    
+       /* padding-left: 10px; */
+       
+    }
+    
+    .caja-cuadrada-all{
+        display: flex;
+        width: 200px;
+        height: 200px;
+       
+        background-position: center;
+        background-size: cover;
+    
+        justify-content: center;
+        align-items: center;
+    
+        margin-right:0px;
+    
+        border-radius:20px;
+    }
+    
+    .imagen-fondo-beats-all{
+    
+        display:flex;
+        width: 200px;
+        height: 200px;
+        object-fit:cover;
+        border-radius:20px;
+        z-index:2;
+        
+    
+    }
+
+
+
+
+
+    .general-all{
+       
+        display:grid;
+        font-family: "Poppins";
+        
+       
+        justify-content: left;
+        justify-self: left;
+        
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); 
+    
+        margin-left: 180px;
+    }
+
+
+    /* BUSCADOR Y FILTROS */
+    .filtros-buscador{
+        position: absolute;
+        width: 300px;
+        height: fit-content;
+        background-color: rgb(26, 26, 26);
+        top:210px;
+        left:50px;
+
+        border-radius: 10px;
+    }
+
+
+
+
+
+
+}

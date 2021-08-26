@@ -1,0 +1,50 @@
+html, body{
+    overflow-x: hidden;
+}
+
+.container-general{
+    font-family: "Poppins";
+    padding-top:100px;
+}
+
+.container-general th {
+    margin:0;
+    padding-right:10px;
+
+    font-size: 20px;
+}
+.container-general ul{
+    color:rgb(181, 181, 181);
+    margin-left:0;
+    padding-left:0;
+    padding-right:10px;
+
+    font-size: 20px;
+}
+
+
+
+/* /////////////////////////////// */
+@media screen and (max-width:420px) {
+    
+.container-general{
+    font-family: "Poppins";
+    padding-top:100px;
+}
+
+.container-general th {
+    margin:0;
+    padding-right:10px;
+
+    font-size: 15px;
+}
+.container-general ul{
+    color:rgb(181, 181, 181);
+    margin-left:0;
+    padding-left:0;
+    padding-right:10px;
+
+    font-size: 15px;
+}
+
+}

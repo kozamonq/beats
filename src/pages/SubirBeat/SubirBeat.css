@@ -1,0 +1,102 @@
+
+/* CONFIRMAR TERMIMOS */
+.div-terminos-activado{
+    position: absolute;
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.687);
+
+    z-index: 10;
+
+    justify-content: center;
+    align-items: center;
+}
+
+.mensaje-terminos{
+    width: 50%;
+    height: 30%;
+    background-color: rgb(50, 50, 50);
+    border-radius:20px ;
+
+    text-align: center;
+}
+
+.mensaje-terminos h2{
+    padding-top: 40px;
+    color:rgb(255, 255, 255);
+}
+.mensaje-terminos h3{
+    padding-top: 20px;
+    margin: 0px 40px 0px 40px;
+    font-size: 20px;
+    color:rgb(255, 255, 255);
+}
+.aceptar-terminos{
+    margin-top:5%;
+    margin-bottom:2%;
+    background-color: red;
+    border:transparent;
+    font-weight: 600;
+    color:white;
+    border-radius: 7px;
+}
+
+
+
+
+/* TERMIMOS CONFIRMADOS */
+
+
+.div-terminos-oculto{
+    display:none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.container-maestro{
+    height: 100vh;
+    overflow-x: hidden;
+    padding-top:100px;
+    color:white;
+    justify-content: center;
+    text-align: center;
+    font-family: "Poppins";
+
+    margin-right:10px;
+    margin-left:10px;
+}
+.container-maestro h2{
+    margin-bottom: 0;
+}
+
+.container-maestro input{
+    margin-right:40px;
+    margin-left:40px;
+
+    padding-right:20px;
+    padding-left:20px;
+
+    
+}
+
+.container-maestro h4{
+    font-size: 1.2rem;
+}
+
+.container-maestro h5{
+    color:rgb(138, 138, 138);
+    font-size: 0.9rem;
+
+    
+}

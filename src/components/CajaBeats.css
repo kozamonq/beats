@@ -1,0 +1,57 @@
+.caja-cuadrada{
+    display: flex;
+    width: 180px;
+    height: 180px;
+    /* background-image:url("https://d1csarkz8obe9u.cloudfront.net/posterpreviews/fancy-best-trap-album-cover-design-template-61c1d25232ab02f25e5da5e0da40e965_screen.jpg?ts=1589589429");  */
+    
+    background-position: center;
+    background-size: cover;
+
+    margin-right:0px;
+    
+
+    justify-content: center;
+    align-items: center;
+
+
+    border-radius:20px;
+}
+.imagen-fondo-beats{
+    display:flex;
+    width: 180px;
+    height: 180px;
+    object-fit:cover;
+    border-radius:20px;
+    
+    z-index:2;
+
+}
+.playStop{
+    position:absolute;
+    z-index:5;
+}
+
+.beat-container h2{
+    font-size: 15px;
+    color:White;
+
+    margin-top:10px;
+    margin-bottom:0;
+   
+}
+
+.beat-container h3{
+    color:gray;
+
+    margin-top:5px;
+    font-size: 15px;
+  
+}
+
+.verificado{
+    width: 20px;
+}
+
+.info-oculta{
+    display:none;
+}

@@ -1,0 +1,50 @@
+.beatmakers-all-container{
+    display: block ;
+    justify-content: center;
+    color:White; /* borrar luego */
+    text-align: center;
+}
+
+.beatmakers-all-container h1{
+    padding-top:100px;
+    font-family:   'Bebas Neue';
+}
+.general-all-beatmaker{
+    display: grid;
+    /* align-items: center; */
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    width: 60%;
+    margin-top:50px;
+    margin-left:20%;
+    margin-right:20%;
+
+    font-family: "Poppins";
+
+    
+}
+
+.contenido-caja-beatmaker{
+    display: grid;
+    justify-content: center;
+   
+}
+
+
+
+.fondo-caja-beatmakers{
+    display:flex;
+    width: 160px;
+    height: 160px;
+    object-fit:cover;
+    border-radius:20px;
+    z-index:2;
+    cursor: pointer;
+}
+
+.contenido-caja-beatmaker ul {
+    margin:5px 0px 0px 0px;
+    padding:0;
+    font-family: "Poppins";
+    font-weight: 500;
+    cursor: pointer;
+}

@@ -1,0 +1,118 @@
+
+.navigationItems{
+    
+    position:absolute;
+    justify-content: space-around;
+}
+
+nav{
+    line-height: 20px;
+    margin-top:10px;
+    min-height: 20px;
+    color:white;
+    display:flex;
+    justify-content: space-between;
+    position:absolute;
+    width:100%;
+    
+}
+
+.logo{
+    
+    margin-left:5vw;
+    z-index:3;
+    
+}
+
+.logo img{
+    width: 40px;
+}
+
+.navlinks{
+    
+    display:flex;
+    justify-content: space-around;
+    list-style: none;
+    text-decoration: none;
+
+    align-items: center;
+    width:60%;
+    margin-right:2.5vw;
+    z-index:5;
+
+    padding:0;
+    margin-bottom:0;
+
+   
+   
+}
+
+.navlinks a{
+    font-family: "Poppins";
+    text-decoration: none;
+    color:White;
+    font-weight: 500;
+    font-size: 14px;
+    margin-left:2px;
+    margin-right:2px
+   
+}
+
+.link a{
+    color:white;
+    text-decoration: none;
+    letter-spacing: 2px;
+    margin:5px;
+}
+.inicio-sesion-link{
+    display:block;
+}
+.inicio-sesion-link-logeado{
+    display:none;
+}
+
+.boton-shake{
+  
+}
+
+
+
+/* PANTALLA GRANDE */
+@media  (min-width:1371px){ 
+
+    .navlinks{
+        justify-content: space-around;
+        display:flex;
+        right: 0px;
+        list-style: none;
+        text-decoration: none;
+       
+    
+       /*  align-items: center; */
+        width:45%;
+        margin-right:0vw;
+       
+        z-index:5;
+    
+        padding:0;
+        margin-bottom:0;
+    
+       
+       
+    }
+
+
+    .navlinks a{
+        font-family: "Poppins";
+        text-decoration: none;
+        color:White;
+        font-size: 14px;
+        font-weight: 500;
+        margin-left:2px;
+        margin-right:2px
+       
+    }
+   
+
+}
+

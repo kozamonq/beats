@@ -1,0 +1,15 @@
+.player{
+    position:sticky;
+}
+
+.player-apagado{
+    display:none;
+}
+
+.cruz-reproductor{
+    cursor: pointer;
+    position: absolute;
+    right: 15px;
+    top:5px;
+    
+}

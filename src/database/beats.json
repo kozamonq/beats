@@ -1,0 +1,73 @@
+[
+    {
+        "nombrebeatmaker":"SvcioBeats",
+        "genero":"Trap",
+        "imagen":"https://i.scdn.co/image/ab67616d0000b273f16a8259e84c50e32ee198dc",
+        "beat1nombre":"Loop",
+        "beatimagen":"https://i.scdn.co/image/ab67616d0000b273f16a8259e84c50e32ee198dc",
+        "mp3":"https://firebasestorage.googleapis.com/v0/b/beats-auth-development.appspot.com/o/Beats%2FSvcioBeats%2FLoop.mp3?alt=media&token=1042bcf7-c17e-494f-bb6a-6ec1a6775f05",
+        "beat1":{
+            "nombre":"hola",
+            "imagen":"https://i.scdn.co/image/ab67616d0000b273f16a8259e84c50e32ee198dc"
+        }
+        
+    },
+    {
+        "nombrebeatmaker":"Rollbeats",
+        "genero":"Trap",
+        "imagen":"https://i.scdn.co/image/ceca07b3f20f1d88ac87f97255c6f5cd8eb0927d",
+        "beat1nombre":"Clientes Negros",
+        "beatimagen":"https://estacion40.com.py/wp-content/uploads/2019/10/Anuel-e1613139351473.jpg",
+        "mp3":"https://firebasestorage.googleapis.com/v0/b/beats-auth-development.appspot.com/o/Beats%2FSvcioBeats%2Fbeat2.mp3?alt=media&token=12035451-96fc-40ae-a574-fe78de1de028",
+        "beat1":{
+            "nombre":"hola",
+            "imagen":"https://estacion40.com.py/wp-content/uploads/2019/10/Anuel-e1613139351473.jpg"
+        }
+        
+    },
+    {
+        "nombrebeatmaker":"RetroMoney",
+        "genero":"Trap",
+        "imagen":"https://i.scdn.co/image/ceca07b3f20f1d88ac87f97255c6f5cd8eb0927d",
+        "beat1nombre":"TouchDown",
+        "beatimagen":"https://d1csarkz8obe9u.cloudfront.net/posterpreviews/fancy-best-trap-album-cover-design-template-61c1d25232ab02f25e5da5e0da40e965_screen.jpg?ts=1589589429",
+        "mp3":"https://firebasestorage.googleapis.com/v0/b/beats-auth-development.appspot.com/o/Beats%2FSvcioBeats%2Fbeat3.mp3?alt=media&token=0c4423bf-68b8-4ad7-93e3-2ed1ea9f66e3",
+        "beat1":{
+            "nombre":"hola",
+            "imagen":"https://d1csarkz8obe9u.cloudfront.net/posterpreviews/fancy-best-trap-album-cover-design-template-61c1d25232ab02f25e5da5e0da40e965_screen.jpg?ts=1589589429"
+
+        }
+        
+    },
+    {
+        "nombrebeatmaker":"isYayBeats",
+        "genero":"Trap",
+        "imagen":"https://i.scdn.co/image/ceca07b3f20f1d88ac87f97255c6f5cd8eb0927d",
+        "beat1nombre":"Loop",
+        "beatimagen":"https://d1csarkz8obe9u.cloudfront.net/posterpreviews/fancy-best-trap-album-cover-design-template-61c1d25232ab02f25e5da5e0da40e965_screen.jpg?ts=1589589429",
+        "mp3":"https://firebasestorage.googleapis.com/v0/b/beats-auth-development.appspot.com/o/Beats%2FSvcioBeats%2Fbeat3.mp3?alt=media&token=0c4423bf-68b8-4ad7-93e3-2ed1ea9f66e3",
+        "beat1":{
+            "nombre":"hola",
+            "imagen":"https://i.scdn.co/image/ab67616d0000b273f16a8259e84c50e32ee198dc"
+
+        }
+
+        
+    },
+    {
+        "nombrebeatmaker":"Enry-K",
+        "genero":"Trap",
+        "imagen":"https://i.scdn.co/image/ceca07b3f20f1d88ac87f97255c6f5cd8eb0927d",
+        "beat1nombre":"Loop",
+        "beatimagen":"https://d1csarkz8obe9u.cloudfront.net/posterpreviews/fancy-best-trap-album-cover-design-template-61c1d25232ab02f25e5da5e0da40e965_screen.jpg?ts=1589589429",
+        "mp3":"https://firebasestorage.googleapis.com/v0/b/beats-auth-development.appspot.com/o/Beats%2FSvcioBeats%2Fbeat5.mp3?alt=media&token=8b16e62a-a897-42bb-ac22-6e59944be9d7",
+        "beat1":{
+            "nombre":"hola",
+            "imagen":"https://i.scdn.co/image/ab67616d0000b273f16a8259e84c50e32ee198dc"
+
+        }
+        
+
+        
+    }
+]

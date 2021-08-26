@@ -1,0 +1,62 @@
+.container-general{
+    padding-top:100px;
+    padding-left:20px;
+    color:white;
+}
+
+.botones-generales button{
+    background-color: transparent;
+    text-decoration: none;
+    border:solid;
+    border-radius:20px;
+    border-width: 2px;
+    color:white;
+    margin-bottom:10px;
+}
+
+
+.en-venta{
+    margin-left:20px;
+    color:white;
+    text-decoration: none;
+}
+.perfil{
+    margin-top:0;
+}
+
+
+
+.datos-cuenta{
+    margin-top: 20px;
+}
+
+.actualizar{
+    margin-left:20px;
+}
+
+.avatar-dashboard{
+    width:200px;
+    height: 200px;
+    
+    object-fit: contain;
+}
+
+.cerrar-sesion{
+    margin-top:10px;
+    background-color: red;
+    border:solid;
+    border-radius: 10px;
+    border-color:red;
+    margin-bottom: 5px;
+
+    font-weight: 600;
+    color:white;
+}
+
+.footer{
+    position:absolute;
+    bottom:0;
+    width: 100%;
+}
+
+

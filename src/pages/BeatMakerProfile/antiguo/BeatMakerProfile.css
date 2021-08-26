@@ -1,0 +1,140 @@
+.container-profile-master {
+    padding-top:90px;
+    z-index:1;
+}
+
+.imagen-profile{
+    position:fixed;
+    width: 100%;
+    height: 145px;
+    z-index:1;
+}
+
+.stats{
+    display:grid;
+
+    justify-content: center;
+    align-items: center;
+    z-index:2;
+
+    text-align: center;
+}
+
+.stats h2{
+    color:white;
+    font-size: 20px;
+    margin-top:15px;
+    z-index:2;
+}
+
+
+
+.avatar-perfil{
+    width: 150px;
+    height: 150px;
+    border:transparent;
+    background-color: black;
+}
+
+
+.imagen-avatar-perfil{
+    width: 150px;
+    height: 150px;
+    border-radius: 1002px 1002px 1002px 1002px;
+    border:solid;
+    border-color:black;
+    object-fit:cover;
+    background-color: black;
+}
+
+
+
+
+
+
+
+
+.stats p{
+    color:White;
+    font-size: 15px;
+    z-index:2;
+    margin-bottom: 2px;
+    color:gray;
+    font-weight: 600;
+}
+
+.espacio-entre{
+    display:flex;
+    justify-content: space-around;
+    z-index:2;
+}
+.espacio-entre p{
+    margin-top:10px;
+    margin-bottom: 10px;
+    color:gray;
+    font-weight: 600;
+    z-index:2;
+}
+
+
+
+
+/* Beats */
+.beats table{
+    margin-top:20px;
+    margin-left:20px;
+    width: 100%;
+}
+
+
+.beats th{
+    color:White;
+}
+
+.beats tbody ul{
+    color:white;
+    padding:0;
+    margin-right:-20px;
+    
+}
+
+
+.circuloplay img{
+    
+    width: 25px;
+}
+
+.precio p{
+    color:rgb(78, 78, 252);
+    font-size: 17px;
+    font-weight: 600;
+}
+
+.link-nombre a{
+    text-decoration: none;
+    color:white;
+}
+.estilo-columna p{
+    color:rgb(84, 84, 84);
+    font-weight: 600;
+}
+
+@media (min-width:1371px){
+    .beats{
+        display: flex;
+        margin:0px;
+        width: 100%;
+        justify-items: center;
+        justify-content: center;
+    }
+
+    .beats table{
+        justify-self: center;
+        width: 50%;
+        margin-right: 0;
+    }
+   /*  .precio{
+       margin-bottom: 0.5rem;
+    } */
+   
+}

@@ -1,0 +1,64 @@
+.container-avatar-general{
+    display:grid;
+    justify-content: center;
+    
+}
+.container-avatar-general form{
+    display:grid;
+    justify-content: center;
+}
+.container-avatar-general h2{
+    color:White;
+    margin-top:100px;
+
+}
+
+
+
+
+.input-avatar{
+    display:none;
+}
+.subir-avatar{
+    color:black;
+    background-color: rgb(238, 238, 238);
+    width: 200px;
+    height: 25px;
+    margin-top:50px;
+
+    border-radius: 10px;
+    text-align: center;
+
+}
+
+
+.actualizar-avatar{
+    justify-self: center;
+    width: 100px;
+    color:white;
+    font-weight: 600;
+    margin-top:50px;
+
+    border-radius:8px;
+    background-color: red;
+}
+
+form button{
+    justify-self: center;
+    width: 100px;
+    color:white;
+    font-weight: 600;
+    margin-top:30px;
+
+    border-radius:8px;
+    background-color: red;
+}
+
+.imagen-avatar{
+    justify-self: center;
+    margin-top:30px;
+    width:200px;
+    height: 200px;
+    
+    object-fit: contain;
+}

@@ -1,0 +1,117 @@
+.tutilo-carrito{
+    color:white;
+    padding-top:100px;
+    text-align: center;
+}
+.contenedor-superior{
+    display: grid;
+    font-family: "Poppins";
+    justify-content: center;
+    justify-items: center;
+}
+
+
+.imagen-beat{
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+    border-radius: 20px;
+}
+.titulo-beat{
+    color:white;
+    font-size: 20px;
+}
+.precio-beat{
+    color:rgb(54, 54, 215);
+    font-size: 20px;
+}
+.boton-eliminar{
+    display:flex;
+    justify-content: center;
+    
+}
+.eliminar-btn{
+    border-radius: 10px;
+    background-color: transparent;
+    color:White;
+    border:solid;
+    border-width: 1px;
+    margin-bottom: 20px;
+}
+
+
+.no-tienes-nada{
+    font-size: 20px;
+    color:rgb(82, 82, 82);
+    margin-top:20px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.div-volver{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+}
+.boton-volver{
+    display: grid;
+    text-decoration: none;
+    font-size: 20px;
+    background-color: red;
+    color:white;
+    font-weight: 500;
+    padding-left:20px;
+    padding-right:20px;
+    border-radius: 20px;
+    place-items: center;
+    justify-content: center;
+    justify-items: center;
+    text-align: center;
+
+}
+
+
+.total-carrito{
+    color:white;
+    font-size: 25px;
+    margin-top:20px;
+    text-align: center;
+}
+
+.div-procesar-pago{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+}
+
+.procesar-pago{
+    border-radius:10px;
+    color:white;
+    width: 200px;
+    height: 35px;
+    font-weight: 600;
+    border:transparent;
+    background-color: rgb(255, 0, 0);
+    text-align: center;
+    align-items: center;
+
+}
+
+
+.general-all-carrito{
+       
+    display:grid;
+    font-family: "Poppins";
+    
+    place-items: center;
+    justify-content: center;
+    justify-self: center;
+    
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); 
+
+   
+}
+
+.contenedor-carrito-beats{
+   
+}

@@ -1,0 +1,39 @@
+.container-main{
+    height: 100px;
+    width: 100%;
+
+    margin-top: 10px;
+    
+   align-items: center;
+   text-align: center;
+
+}
+.container-main hr{
+    color: white;
+}
+.links{
+    display:flex;
+    justify-content: center;
+    margin-bottom: 15px;
+    
+}
+.inicio, .contacto, .prensa{
+    color:rgb(108, 108, 108);
+    margin: 5px 5px 0px 5px;
+    font-size: 15px;
+}
+
+
+
+
+.redes-sociales{
+    display:flex;
+    justify-content: center;
+}
+
+.instagram, .twitter, .youtube, .facebook{
+    color:white;
+    margin: 0px 5px 0px 5px;
+    width:30px;
+    height: 30px;
+}

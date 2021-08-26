@@ -1,0 +1,159 @@
+
+.container-general-beatmaker{
+    padding-top:130px;
+    font-family: "Poppins";
+    color:white;
+   
+}
+.portada{
+    display:grid;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    justify-items: center;
+}
+
+.beatPortada{
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+
+    border-radius: 20px;
+}
+.portada h2{
+    margin-top:15px;
+}
+.portada h4{
+    font-size: 18px;
+    margin-top:5px;
+}
+
+
+.tempo{
+    display:flex;
+    align-self: center;
+    justify-content: center;
+}
+.tempo h5{
+    padding-left:10px;
+    padding-right:10px;
+
+    margin-top:10px;
+
+    font-size: 15px;
+    color:gray;
+}
+.tempo img{
+    height: 15px;
+    /* margin-bottom:8px; */
+}
+
+.boton-compra{
+    padding:5px 25px 5px 25px;
+    margin-top:5px;
+
+    border-radius:10px;
+    background-color: red;
+    color:white;
+    font-weight: 600;
+
+    border:none;
+}
+
+.carrito{
+    width: 25px;
+    margin-bottom: 4px;
+}
+
+.circuloplay{
+    width: 40px;
+}
+.perfil-beatmaker h4{
+    color:rgb(94, 93, 93);
+}
+
+.perfil-beatmaker a{
+    color:rgb(237, 237, 237);
+    text-decoration: none;
+}
+
+
+
+.div-overlay-oculto{
+    position:absolute;
+    display:none;
+    top:0;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.756);
+    z-index:6;
+
+    justify-items: center;
+    justify-content: center;
+
+    align-items: center;
+}
+
+.div-overlay-oculto-activo{
+    position:absolute;
+    display:flex;
+    top:0;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.756);
+    z-index:6;
+
+    justify-items: center;
+    justify-content: center;
+
+    align-items: center;
+}
+
+
+
+.alerta-overlay{
+    display:grid;
+    width: 80%;
+    height: 160px;
+    background-color: rgb(53, 53, 53);
+    top:50vh;
+    text-align: center;
+    align-items: center;
+
+    border-radius: 20px;
+    
+}
+
+.alerta-overlay h1{
+    font-size: 20px;
+    align-self: center;
+    margin-bottom: 0;
+}
+
+.alerta-overlay button{
+    border-radius: 20px;
+    color:white;
+    align-self: center;
+    justify-self: center;
+    background-color: transparent;
+    border: solid;
+    border-color: white;
+    width: 50%;
+    margin-top:5px;
+}
+
+
+
+
+
+
+
+
+
+
+/* form {
+    width:300px;
+    height: 20px;
+    color:white;
+    background-color: white;
+} */
